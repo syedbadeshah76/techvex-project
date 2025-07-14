@@ -1,1 +1,1 @@
-# techvex-project
+# Techlynx-project
